@@ -5,7 +5,7 @@ But, when my laptop is hank, i decide to focus on my fav skill, frontend Develop
 
 You can Hire me or Collab with me for:
 
-Creative Web Designer • Slicing PSD/Figma to WordPress • Slicing PSD/Figma to Reactjs • Slicing PSD/Figma to HTML • Responsive Web Design • WordPress Website Development
+• Creative Web Designer <br>• Slicing PSD/Figma to WordPress <br>• Slicing PSD/Figma to Reactjs <br>• Slicing PSD/Figma to HTML <br>• Responsive Web Design <br>• WordPress Website Development
 
 [![Linkedin](https://img.shields.io/badge/-nisacodelifings-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisacodelifings/)](https://www.linkedin.com/in/nisacodelifings/)
 
