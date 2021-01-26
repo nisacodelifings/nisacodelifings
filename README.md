@@ -1,11 +1,8 @@
 
-I have experience in C++, Python, Godot, Java, ReactJS, Svelte, SQL, HTML5 & CSS3, VanillaJS, Deployment WebMaster, Netlify, Surge, Vercel, Unreal Engine 4, NativeScript, Nodejs, Express, Mongodb, Sqlite, and Electron. 
-
-But, when my laptop is hank, i decide to focus on my fav skill, frontend Development.
-
-You can Hire me or Collab with me for:
-
-• Creative Web Designer <br>• Slicing PSD/Figma to WordPress <br>• Slicing PSD/Figma to Reactjs <br>• Slicing PSD/Figma to HTML <br>• Responsive Web Design <br>• WordPress Website Development <br>• Latching Restful APIs
+Designer Who Code
+Creating Website Static & Dinamic
+Improving UI/UX on The Website
+Creating Own Hosting & Domain for Website
 
 [![Linkedin](https://img.shields.io/badge/-nisacodelifings-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisacodelifings/)](https://www.linkedin.com/in/nisacodelifings/)
 
