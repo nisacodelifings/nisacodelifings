@@ -1,8 +1,8 @@
 
-Designer Who Code
-Creating Website Static & Dinamic
-Improving UI/UX on The Website
-Creating Own Hosting & Domain for Website
+Designer Who Code ✨
+Creating Website Static & Dinamic ✨
+Improving UI/UX on The Website ✨
+Creating Own Hosting & Domain for Website ✨
 
 [![Linkedin](https://img.shields.io/badge/-nisacodelifings-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisacodelifings/)](https://www.linkedin.com/in/nisacodelifings/)
 
